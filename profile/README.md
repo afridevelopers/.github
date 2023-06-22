@@ -13,9 +13,9 @@ At XXpert Solutions, our mission is to empower businesses through cutting-edge t
 
 ## Our Services
 
-- Software Development: We specialize in designing and developing custom software solutions that streamline operations, improve efficiency, and enhance user experiences
-- Cybersecurity: [Our cybersecurity experts offer comprehensive services to protect your organization from evolving threats, including vulnerability assessments, penetration testing, and security audits.]
-- Cloud Services: [Our team has extensive experience in cloud computing, offering solutions for cloud migration, infrastructure management, and optimizing cloud resources.]
+- Software Development: We specialize in designing and developing custom software solutions that streamline operations, improve efficiency, and enhance user experiences.
+- Cybersecurity: Our cybersecurity experts offer comprehensive services to protect your organization from evolving threats, including vulnerability assessments, penetration testing, and security audits.
+- Cloud Services: Our team has extensive experience in cloud computing, offering solutions for cloud migration, infrastructure management, and optimizing cloud resources.
 
 ## Get in Touch
 
