@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Profile Views](https://komarev.com/ghpvc/?username=xxpert-solutions&color=brightgreen)
-[![Open Issues](https://img.shields.io/github/issues/xxpert-solutions)](https://github.com/xxpert-solutions/issues)
+[![Open Issues](https://img.shields.io/github/issues/XXpert-solutions)](https://github.com/XXpert-solutions/issues)
 
 ## About
 
