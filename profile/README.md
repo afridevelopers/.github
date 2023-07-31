@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for your interest in XXpert Solutions. We look forward to collaborating with you!
+Thank you for your interest in our expertise. We look forward to collaborating with you!
