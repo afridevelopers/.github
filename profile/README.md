@@ -14,7 +14,7 @@ Afri-X is a collaborative organization dedicated to delivering expert technology
 
 ## Our Mission
 
-At XXpert Solutions, our mission is to empower businesses through cutting-edge technology solutions. We believe in leveraging the latest advancements to help organizations achieve their goals and stay ahead in a rapidly evolving digital landscape.
+At Afri-X, our mission is to empower businesses through cutting-edge technology solutions. We believe in leveraging the latest advancements to help organizations achieve their goals and stay ahead in a rapidly evolving digital landscape.
 
 ## Our Services
 
