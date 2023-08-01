@@ -10,7 +10,7 @@
 
 ## About
 
-XXpert Solutions is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients. Our team consists of highly skilled professionals with diverse expertise in Software Development, Cybersecurity, Data Analytics, Cloud Services.
+Afri-X is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients. Our team consists of highly skilled professionals with diverse expertise in Software Development, Cybersecurity, Data Analytics, Cloud Services.
 
 ## Our Mission
 
