@@ -1,6 +1,5 @@
 
 
-![xx](https://github.com/XXpert-solutions/.github/assets/112781610/ad46c5e3-a60f-47e6-b737-469e73e1b65b)
 
 
 
