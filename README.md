@@ -5,11 +5,11 @@
 
 ## About
 
-XXpert Solutions is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients. Our team consists of highly skilled professionals with diverse expertise in [Software Development, Cybersecurity, Data Analytics, Cloud Services].
+Afri-X is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients. Our team consists of highly skilled professionals with diverse expertise in [Software Development, Cybersecurity, Data Analytics, Cloud Services].
 
 ## Our Mission
 
-At XXpert Solutions, our mission is to empower businesses through cutting-edge technology solutions. We believe in leveraging the latest advancements to help organizations achieve their goals and stay ahead in a rapidly evolving digital landscape.
+At Afri-X, our mission is to empower businesses through cutting-edge technology solutions. We believe in leveraging the latest advancements to help organizations achieve their goals and stay ahead in a rapidly evolving digital landscape.
 
 ## Our Services
 
@@ -37,5 +37,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for your interest in XXpert Solutions. We look forward to collaborating with you!
+Thank you for your interest in Afri-X. We look forward to collaborating with you!
 
