@@ -24,7 +24,7 @@ At afridevelopers, our mission is to empower businesses through cutting-edge tec
 
 ## Get in Touch
 
-For inquiries or to discuss potential collaborations, please contact us at [support@xxpertsolutions.com]. We look forward to hearing from you!
+For inquiries or to discuss potential collaborations, We look forward to hearing from you!
 
 ## Contributing
 
