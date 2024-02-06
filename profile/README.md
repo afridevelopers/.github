@@ -7,6 +7,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Profile Views](https://komarev.com/ghpvc/?username=xxpert-solutions&color=brightgreen)
+    <li>Join the afridevelopers Org by raising an <a href="https://github.com/afridevelopers/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</li>
 
 ## About
 
