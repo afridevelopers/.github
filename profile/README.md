@@ -16,16 +16,6 @@ afridevelopers is a collaborative organization dedicated to delivering expert te
 
 At afridevelopers, our mission is to empower businesses through cutting-edge technology solutions. We believe in leveraging the latest advancements to help organizations achieve their goals and stay ahead in a rapidly evolving digital landscape.
 
-## Our Services
-
-- Software Development: We specialize in designing and developing custom software solutions that streamline operations, improve efficiency, and enhance user experiences.
-- Cybersecurity: Our cybersecurity experts offer comprehensive services to protect your organization from evolving threats, including vulnerability assessments, penetration testing, and security audits.
-- Cloud Services: Our team has extensive experience in cloud computing, offering solutions for cloud migration, infrastructure management, and optimizing cloud resources.
-
-## Get in Touch
-
-For inquiries or to discuss potential collaborations, We look forward to hearing from you!
-
 ## Contributing
 
 We welcome contributions from the community to improve our projects. To contribute, please follow these steps:
@@ -36,9 +26,6 @@ We welcome contributions from the community to improve our projects. To contribu
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
