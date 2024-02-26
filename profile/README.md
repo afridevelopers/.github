@@ -3,21 +3,20 @@
 
 
 
-
+<div align="center">
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Profile Views](https://komarev.com/ghpvc/?username=xxpert-solutions&color=brightgreen)
 
+</div>
 
-
-![AFRI MOCKUP](https://github.com/afridevelopers/.github/assets/112781610/24cad21e-6112-42ee-9b06-bc57c4509a33)
 
 
 <div align="center">
   
 ## About
 
-afridevelopers is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients. Our team consists of highly skilled professionals with diverse expertise in Software Development, Cybersecurity, Data Analytics, Cloud Services.
+afridevelopers is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients.
 
 ## Our Mission
 
