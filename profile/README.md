@@ -27,4 +27,9 @@ At afridevelopers, our mission is to empower businesses through cutting-edge tec
 
 Thank you for your interest in our expertise. We look forward to collaborating with you!
 
+### Make your Membership Public Here:
+
+[Edit Your Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership)
+
+
 </div>
