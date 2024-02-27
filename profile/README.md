@@ -19,12 +19,13 @@
   
 ## About
 
-afridevelopers is a collaborative organization dedicated to delivering expert technology solutions to businesses worldwide. We strive to provide innovative solutions that drive growth, efficiency, and success for our clients.
+afridevelopers recognizes that many aspiring software developers face a significant hurdle when trying to enter the job market <h3 color="blue"> the experience gap </h3>. 
 
-## Our Mission
+## Mission
 
-At afridevelopers, our mission is to empower businesses through cutting-edge technology solutions. We believe in leveraging the latest advancements to help organizations achieve their goals and stay ahead in a rapidly evolving digital landscape.
-
+Our mission is to bridge this gap by providing opportunities for upcoming talents to gain practical experience and exposure to real-world projects. 
+Through our collaborative organization, we offer mentorship, internships, and project-based learning experiences that empower aspiring developers 
+to enhance their skills and build a strong foundation for their careers.
 
 ---
 
