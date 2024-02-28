@@ -34,7 +34,11 @@ Thank you for your interest in our expertise. We look forward to collaborating w
 ### Make your Membership Public Here:
 
 [Edit Your Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership)
-[Join Afridevelopers](https://github.com/afridevelopers/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)
 
+<h3>
+  
+[Join afridevelopers](https://github.com/afridevelopers/support/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community)
+
+</h>
 
 </div>
