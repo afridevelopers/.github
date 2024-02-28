@@ -17,14 +17,14 @@
 
 <div align="center">
   
-## About
 
-afridevelopers recognizes that many aspiring software developers face a significant hurdle when trying to enter the job market <h3 color="blue"> the experience gap </h3>. 
+This organisation is the home of open source! Make Pull Requests, open Issues, share ideas, help each other and make improvements!
+
 
 ## Mission
 
 Our mission is to bridge this gap by providing opportunities for upcoming talents to gain practical experience and exposure to real-world projects. 
-Through our collaborative organization, we offer mentorship, internships, and project-based learning experiences that empower aspiring developers 
+Through our collaborative organization we offer project-based learning experiences that empower aspiring developers 
 to enhance their skills and build a strong foundation for their careers.
 
 ---
