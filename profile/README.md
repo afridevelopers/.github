@@ -1,6 +1,7 @@
 <div align="center">
   
-# afridevelopers
+![AFRI MOCKUP1 (1)](https://github.com/afridevelopers/.github/assets/112781610/854f5772-576e-4878-b0a1-f36cdccd568e)
+
 
 </div>
 
@@ -31,9 +32,12 @@ to enhance their skills and build a strong foundation for their careers.
 
 Thank you for your interest in our expertise. We look forward to collaborating with you!
 
-### Make your Membership Public Here:
+### Make your Membership Public:
 
-[Edit Your Membership](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership)
+<h2>
+  
+[Here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership)
+</h2>
 
 <h3>
   
