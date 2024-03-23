@@ -1,7 +1,6 @@
 <div align="center">
   
-![AFRI MOCKUP1 (1)](https://github.com/afridevelopers/.github/assets/112781610/854f5772-576e-4878-b0a1-f36cdccd568e)
-
+![27wuCR01](https://github.com/afridevelopers/.github/assets/112781610/23bc9e15-d1b5-4247-bba0-be1c176c9717)
 
 </div>
 
